@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ScentWeaver's mod, SW Dating sim, a secret project and a fantasy rpg**
 
-- Fun fact **Sorry, that was definitely me**
+- 💬Fun fact: **Sorry, that was definitely me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
