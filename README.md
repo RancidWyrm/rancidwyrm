@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, stranger! I'm RancidWyrm</h1>
-<h3 align="center">A smelly fartist who sometimes works on strange fetish-related projects</h3>
+<h1 align="center">It's me, the Wyrm</h1>
+<h3 align="center">I do enjoy making kinky games sometimes... Hopefully I'll be able to FINISH one of them sometime soon</h3>
 
-- 🔭 I’m currently working on **ScentWeaver's mod, SW Dating sim, a secret project and a fantasy rpg**
+
 
 - 💬Fun fact: **Sorry, that was definitely me**
 
